@@ -9,27 +9,25 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Software Programmer & Ai Engineer 🤖
 	
-👨‍💻 Lead NLP Developer at HandyHelps
+👨‍💻 Web Developer & Chatbot Developer
 
-🔥 NLP & VUI Consultant and Web Developer 
+🔥 Coding Languages = "HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIND CSS, PYTHON"
+
+✨ Expert in SEO & FIGMA
 	
 💰 RISING TALENT at UPWORK ✅
 
 💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
-	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
 
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+📓 I’m currently learning Blockchain and Metaverse... 😭
 
-📓 I’m currently learning LLM's and Genrative AI... 😭
-
-📧 hammadn788@gmail.com
+📧 mohammadmoizbusy@gmail.com
 
 🎨 Portfolio: https://hammad-air.github.io/hammad/
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/mohammad-moiz-1071732a9/
 
 📷 Instagram : https://www.instagram.com/hammad2980/
  
