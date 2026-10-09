@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Mohammad Moiz👋<a href="https:/Mohammad-Moiz-01/Mohammad-Moiz-01/"></h1>
+    <h1> Hi there, I'm Moiz Mohammad👋<a href="https:/Mohammad-Moiz-01/Mohammad-Moiz-01/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/Mohammad-Moiz-01"><img src="https://readme-typing-svg.herokuapp.com/?lines=GenAi+and+ChatBot+Developer;Frontend+Web+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -25,11 +25,11 @@
 
 📧 mohammadmoizbusy@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://moiz-air.github.io/hammad/
 
 💼 LinkedIn: https://www.linkedin.com/in/mohammad-moiz-1071732a9/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : https://www.instagram.com/moiz/
  
 <h2>Tech Stack</h2>
 
